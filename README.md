@@ -1,1 +1,1 @@
-"# Define Stage for openCoLab Ideas
+# Define Stage for openCoLab Ideas
