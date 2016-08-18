@@ -1,4 +1,4 @@
-# Ideas
+# Define
 openCoLab Idea - Sand Crab Tracker
 
 The problem: How do you know when a sand crab is drunk?
